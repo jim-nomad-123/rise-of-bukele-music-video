@@ -10,7 +10,7 @@ A 59s up-tempo reggaeton music video (Original Song: "Rise of Bukele" on the ris
 
 ## Files
 - 'rise-of-bukele-reggaeton.mp4': Main video file (9:16, 59s)
-- 'images/': Image files
+- 'images/': Image files from public domain
 - 'chart/': Chart file
 - 'audio/': Generated background track and rap song
 
