@@ -1,4 +1,4 @@
-# Rise of Bukele Music Video
+# Rise of Bukele Reggaeton Video
 A 59s up-tempo reggaeton music video (Original Song: "Rise of Bukele" on the rise of Nayib Bukele
 
 ## Tools Used
